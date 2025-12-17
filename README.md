@@ -1,6 +1,6 @@
 # Emergency Hamburg Private Server Bot
 
-This repository contains a Discord bot for Emergency Hamburg, providing information about an open private server in the Roblox game.
+This repository contains a Discord bot for Emergency Hamburg, providing information about an private server in game.
 
 ## Features
 - Automated private server management
@@ -9,23 +9,17 @@ This repository contains a Discord bot for Emergency Hamburg, providing informat
 
 ## Languages
 You can use either implementation:
-- **Python** - Located in `/python` directory
-- **JavaScript** - Located in `/javascript` directory
+- **Python** - Located in `/src` directory
+- **JavaScript** - Located in `/src.js` directory
 
 ## Installation
-[Add usage instructions here]
-
-## Usage
-[Add usage instructions here]
+Download the Project, Open the Folder For the Language you want for the bot be You can Choose Pyhton or Javascript, Install the Requirements, Enter Your Bot Token & Run the Script.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Credits
 This is an open-source project. If you use this bot, please provide appropriate credits.
-
-## License
-[Add your license here]
 
 ## Support
 For questions or issues, please open an issue in this repository.
